@@ -13,5 +13,8 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "ce89360b"
+  },
+  "posts/karlan-list/index.qmd": {
+    "index.html": "a9b1d348"
   }
 }
