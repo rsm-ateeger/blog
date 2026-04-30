@@ -3,6 +3,7 @@ title: A/B Testing a Call to Action
 subtitle: "Simulating Key Ideas from Classical Frequentist Statistics"
 author: "Aidan Teeger"
 date: today
+description: "A walkthrough of running an A/B test on a newsletter call-to-action, using simulated data to illustrate the core ideas behind frequentist statistical inference."
 ---
 
 ## Introduction
