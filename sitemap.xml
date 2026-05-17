@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rsm-ateeger.github.io/blog/posts/karlan-list/index.html</loc>
-    <lastmod>2026-04-25T03:10:04.630Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rsm-ateeger.github.io/blog/index.html</loc>
-    <lastmod>2026-04-25T03:09:49.507Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rsm-ateeger.github.io/blog/about.html</loc>
-    <lastmod>2026-04-25T03:09:47.822Z</lastmod>
+    <lastmod>2026-05-17T16:04:29.497Z</lastmod>
   </url>
   <url>
     <loc>https://rsm-ateeger.github.io/blog/posts/ab-testing/index.html</loc>
-    <lastmod>2026-04-25T03:10:01.932Z</lastmod>
+    <lastmod>2026-05-17T16:04:26.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsm-ateeger.github.io/blog/about.html</loc>
+    <lastmod>2026-05-17T16:04:21.278Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsm-ateeger.github.io/blog/index.html</loc>
+    <lastmod>2026-05-17T16:04:21.951Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsm-ateeger.github.io/blog/posts/blueprinty-mle/index.html</loc>
+    <lastmod>2026-05-17T16:04:28.214Z</lastmod>
   </url>
 </urlset>
