@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rsm-ateeger.github.io/blog/posts/karlan-list/index.html</loc>
-    <lastmod>2026-05-17T16:04:29.497Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rsm-ateeger.github.io/blog/posts/ab-testing/index.html</loc>
-    <lastmod>2026-05-17T16:04:26.575Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rsm-ateeger.github.io/blog/about.html</loc>
-    <lastmod>2026-05-17T16:04:21.278Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rsm-ateeger.github.io/blog/index.html</loc>
-    <lastmod>2026-05-17T16:04:21.951Z</lastmod>
+    <loc>https://rsm-ateeger.github.io/blog/posts/maxdiff-mnl/index.html</loc>
+    <lastmod>2026-05-28T21:27:46.517Z</lastmod>
   </url>
   <url>
     <loc>https://rsm-ateeger.github.io/blog/posts/blueprinty-mle/index.html</loc>
-    <lastmod>2026-05-17T16:04:28.214Z</lastmod>
+    <lastmod>2026-05-28T21:27:41.780Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsm-ateeger.github.io/blog/index.html</loc>
+    <lastmod>2026-05-28T21:27:35.430Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsm-ateeger.github.io/blog/about.html</loc>
+    <lastmod>2026-05-28T21:27:34.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsm-ateeger.github.io/blog/posts/ab-testing/index.html</loc>
+    <lastmod>2026-05-28T21:27:40.182Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rsm-ateeger.github.io/blog/posts/karlan-list/index.html</loc>
+    <lastmod>2026-05-28T21:27:43.099Z</lastmod>
   </url>
 </urlset>
